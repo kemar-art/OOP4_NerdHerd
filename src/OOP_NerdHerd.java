@@ -4,6 +4,22 @@ import java.awt.event.ActionListener;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 
+/* This program was developed by:
+        Stephen Baker ID: 2017001858
+        Toni-Ann Wallace ID: 2017001545
+        Meleisa Pinnock ID: 2017002015
+        Kemar Norton ID: 2017001789
+
+        Due:- 						Total marks:	50 Marks
+        Date: 23/2/2022			    Lecturer: Doron Williams
+
+
+        Vocational Training Development Institute
+              School of Applied Technology
+                    Department of ICT
+      Introduction to Object-Oriented Programming II
+     */
+
 public class OOP_NerdHerd extends JFrame {
     double US_dollar = 129.02;
     double CAN_dollar = 97.50;
